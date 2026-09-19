@@ -1,5 +1,5 @@
 ---
-description: "Cross-Platform Smart Microlearning & History Stash App (Instagram-style feed with optional local AI summarization)"
+description: "Cross-Platform Smart Microlearning & History Stash App (Vertical feed with optional local AI summarization)"
 ---
 
 # Project Master Plan: Smart Stash App
@@ -13,7 +13,7 @@ description: "Cross-Platform Smart Microlearning & History Stash App (Instagram-
   - `/services` (RSS/Atom feed parsers and local AI abstraction layer)
   - `/database` (Local persistence logic)
 
-## Phase 2: Core UI - The TikTok/Reels Vertical Feed
+## Phase 2: Core UI - Vertical Swipeable Feed
 - [ ] Build a full-screen vertical swipeable layout (`PageView.builder` with `scrollDirection: Axis.vertical`).
 - [ ] Design the microlearning card UI component:
   - Immersive dark/light minimal aesthetic taking 100% viewport height.
