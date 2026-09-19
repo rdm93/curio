@@ -1,0 +1,1052 @@
+[
+  {
+    "id": "hist-001",
+    "title": "The Rosetta Stone's Secret Key",
+    "category": "History",
+    "summary": "Carved in 196 BC, this decree by King Ptolemy V is inscribed in three distinct scripts: Ancient Egyptian hieroglyphs, Demotic, and Ancient Greek. Because scholars could still read Greek, it served as the linguistic cryptographic cipher that unlocked over 3,000 years of forgotten Egyptian history.",
+    "takeaway": "Translation is the bridge of civilizations; without Greek, hieroglyphs would still be silent stone.",
+    "body": "Discovered in July 1799 by French soldiers under Napoleon Bonaparte near the town of Rashid (Rosetta), the stele immediately captivated scholars across Europe. When the British defeated the French in Egypt in 1801, the stone became British property under the Treaty of Alexandria and was shipped to the British Museum.\n\nThe real breakthrough took another two decades. French linguist Jean-François Champollion realized that hieroglyphs were not merely ideograms or symbolic concepts as centuries of scholars believed, but a phonetic script representing sounds. By matching royal cartouches—specifically the names Ptolemy and Cleopatra—between the Greek and hieroglyphic registers, Champollion cracked the grammar of the pharaohs in 1822.",
+    "sourceName": "The British Museum",
+    "sourceUrl": "https://www.britishmuseum.org/collection/egypt/rosetta-stone",
+    "tags": [
+      "Egypt",
+      "Linguistics",
+      "Archaeology"
+    ],
+    "readTimeSeconds": 25,
+    "gradientColors": [
+      "#2C3E50",
+      "#FD746C"
+    ],
+    "isStashed": false
+  },
+  {
+    "id": "hist-002",
+    "title": "The Antikythera Mechanism: Humanity's First Computer",
+    "category": "History",
+    "summary": "Recovered from a Roman-era shipwreck in 1901, this corroded bronze device contained at least 30 precision meshed bronze gears. Dated to circa 150 BC, it calculated eclipses, planetary orbits, and the four-year cycle of the ancient Olympic Games over a millennium before clocks existed in Europe.",
+    "takeaway": "Technological progress is not always linear; ancient civilizations engineered marvels that were subsequently lost for centuries.",
+    "body": "For decades after its discovery off the Greek island of Antikythera, the artifact puzzled historians who could not believe classical antiquity had developed mechanical gear-train technology of such sophistication. In the late 20th and early 21st centuries, high-resolution X-ray computed tomography revealed hidden inscriptions and intricate differential gearing inside.\n\nThe mechanism was turned by a hand crank and could track the Metonic calendar (a 19-year lunar-solar cycle), predict solar and lunar eclipses with exact color and timing calculations, and track the irregular elliptical motion of the Moon (explained by Babylonian epicyclic theory) using an ingenious pin-and-slot gear coupling.",
+    "sourceName": "Nature Archive / Antikythera Project",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Antikythera_mechanism",
+    "tags": [
+      "Ancient Greece",
+      "Technology",
+      "Astronomy"
+    ],
+    "readTimeSeconds": 30,
+    "gradientColors": [
+      "#0B486B",
+      "#F56217"
+    ],
+    "isStashed": false
+  },
+  {
+    "id": "hist-003",
+    "title": "Mansa Musa: The Wealthiest Traveler in History",
+    "category": "History",
+    "summary": "In 1324, Mansa Musa, ruler of the Mali Empire, embarked on a 4,000-mile pilgrimage to Mecca with an entourage of 60,000 people and dozens of camels laden with gold. He gave away so much gold in Cairo that he unintentionally devalued the metal across the Mediterranean for over a decade.",
+    "takeaway": "Abundance concentrated in one place can disrupt entire economic ecosystems through runaway inflation.",
+    "body": "Mansa Musa ruled the Mali Empire from 1312 to 1337, overseeing vast territories rich in gold and rock salt that supplied more than half of the Old World's gold demand. His pilgrimage was both a religious journey and a legendary geopolitical exhibition that firmly planted West Africa on European nautical maps, most notably the Catalan Atlas of 1375.\n\nHistorians calculate that Musa's lavish generosity and gold spending in Cairo caused massive currency devaluation. According to Syrian chronicler al-Umari, who visited Cairo twelve years later, the value of gold had still not fully recovered from Musa's brief stay. On his return journey, Musa even borrowed back gold at high interest rates to single-handedly rescue the Cairo economy.",
+    "sourceName": "World History Encyclopedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Mansa_Musa",
+    "tags": [
+      "Africa",
+      "Economics",
+      "Medieval"
+    ],
+    "readTimeSeconds": 25,
+    "gradientColors": [
+      "#F3904F",
+      "#3B4371"
+    ],
+    "isStashed": false
+  },
+  {
+    "id": "hist-004",
+    "title": "The Fall of Constantinople (1453)",
+    "category": "History",
+    "summary": "When 21-year-old Ottoman Sultan Mehmed II breached the legendary Theodosian walls of Constantinople using massive Hungarian bronze cannons, he ended the Eastern Roman Empire after 1,123 years. The fleeing Greek scholars brought classical manuscripts to Italy, fueling the European Renaissance.",
+    "takeaway": "The fall of one world order often sows the intellectual seeds of the next.",
+    "body": "The triple walls built by Emperor Theodosius II had resisted over a dozen sieges across a thousand years. But in spring 1453, Mehmed II deployed the 'Basilica' bombard designed by the Hungarian engineer Orban—a cannon so heavy it took 60 oxen to move and fired 600-pound granite stones that pulverized the stone ramparts.\n\nTo bypass the massive iron chain guarding the Golden Horn harbor, Mehmed ordered his ships pulled overland across greased wooden logs under the cover of night. When Constantinople fell on May 29, 1453, it severed direct European overland trade routes to Asia, driving Portuguese and Spanish navigators to the open ocean and directly sparking the Age of Discovery.",
+    "sourceName": "Encyclopaedia Britannica",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Fall_of_Constantinople",
+    "tags": [
+      "Byzantine",
+      "Ottoman",
+      "Renaissance"
+    ],
+    "readTimeSeconds": 30,
+    "gradientColors": [
+      "#870000",
+      "#190A05"
+    ],
+    "isStashed": false
+  },
+  {
+    "id": "hist-005",
+    "title": "The Library of Alexandria's Real Demise",
+    "category": "History",
+    "summary": "Popular myth portrays the great Library of Alexandria as burning down in a single catastrophic inferno. In reality, its destruction was a slow, agonizing decline over several centuries caused by funding cuts, imperial purges, political instability, and gradual neglect.",
+    "takeaway": "Civilizational knowledge is rarely lost to one disaster; it decays when society stops investing in its preservation.",
+    "body": "Founded around 300 BC under Ptolemy I Soter, the Mouseion and Library aimed to collect a copy of every scroll in the known world. Ships docking in Alexandria were legally required to surrender their manuscripts for scribes to copy (often keeping the originals and returning duplicates).\n\nWhile Julius Caesar accidentally set fire to part of the harbor in 48 BC which burned dockside warehouses, the library continued functioning. Decisive blows came from institutional degradation: Emperor Caracalla purged intellectuals in 215 AD, Aurelian battered the royal quarter in 272 AD, and Theophilus tore down pagan temples in 391 AD. By the 7th century, the institution had already dwindled into a shadow of its former glory.",
+    "sourceName": "Smithsonian Magazine",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Library_of_Alexandria",
+    "tags": [
+      "Egypt",
+      "Knowledge",
+      "Antiquity"
+    ],
+    "readTimeSeconds": 25,
+    "gradientColors": [
+      "#4A00E0",
+      "#8E2DE2"
+    ],
+    "isStashed": false
+  },
+  {
+    "id": "hist-006",
+    "title": "The Silk Road's Invisible Cargo: Ideas & Biology",
+    "category": "History",
+    "summary": "Spanning over 6,400 kilometers between Chang'an and Venice, the Silk Road moved far more than silk and spices. It served as the central nervous system of Eurasia, transmitting papermaking, Buddhism, glassblowing, musical instruments, and devastating bubonic pandemics.",
+    "takeaway": "Trade routes are information networks disguised as commodity markets.",
+    "body": "Coined by German geographer Ferdinand von Richthofen in the 19th century, the 'Silk Road' was never a single paved highway, but an evolving web of caravan paths through mountains, oases, and deserts. Merchants rarely traveled the entire route; goods moved through intermediary traders from oasis city to oasis city (such as Samarkand, Kashgar, and Dunhuang).\n\nAmong its most transformative cultural transmissions was the secret of Chinese papermaking, captured by the Abbasids after the Battle of Talas in 751 AD, which catalyzed the Islamic Golden Age in Baghdad. Simultaneously, the Black Death of the 1340s hitched rides on marmot furs and rodent-infested grain shipments along the Mongol-secured Pax Mongolica.",
+    "sourceName": "UNESCO Silk Roads Programme",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Silk_Road",
+    "tags": [
+      "Eurasia",
+      "Trade",
+      "Cultural Exchange"
+    ],
+    "readTimeSeconds": 25,
+    "gradientColors": [
+      "#D38312",
+      "#A83279"
+    ],
+    "isStashed": false
+  },
+  {
+    "id": "hist-007",
+    "title": "Göbekli Tepe: The Temple Before Agriculture",
+    "category": "History",
+    "summary": "Unearthed in southeastern Turkey and dating to 9500 BC, Göbekli Tepe predates Stonehenge by 6,000 years. Its monumental 10-ton carved T-shaped stone pillars overturned archeology's cardinal rule: humans gathered for monumental ritual before inventing agriculture, not after.",
+    "takeaway": "Spiritual congregation and shared myths may have catalyzed settled civilization, rather than the plow.",
+    "body": "Until Klaus Schmidt's excavations in 1994, anthropologists universally believed that human development followed a strict chain: agriculture allowed food surpluses, which spurred permanent settlements, which then permitted complex social hierarchies and religious monuments.\n\nGöbekli Tepe shattered this paradigm. Built by hunter-gatherers with flint tools before the invention of pottery, writing, or domesticated beasts of burden, the site contains dozens of massive megaliths adorned with bas-reliefs of lions, vultures, scorpions, and foxes. The immense cooperative effort required to feed and organize hundreds of workers to quarry and carve these stones may have forced nearby tribes to begin domesticating wild emmer wheat.",
+    "sourceName": "National Geographic",
+    "sourceUrl": "https://en.wikipedia.org/wiki/G%C3%B6bekli_Tepe",
+    "tags": [
+      "Archaeology",
+      "Neolithic",
+      "Anthropology"
+    ],
+    "readTimeSeconds": 30,
+    "gradientColors": [
+      "#3E5151",
+      "#DECBA4"
+    ],
+    "isStashed": false
+  },
+  {
+    "id": "hist-008",
+    "title": "The Defenestrations of Prague (1618)",
+    "category": "History",
+    "summary": "In May 1618, Protestant nobles in Bohemia threw three Catholic regents out of a high window in Prague Castle. The officials survived a 70-foot drop into a heap of dung, but the incident sparked the Thirty Years' War—one of the bloodiest conflicts in European history.",
+    "takeaway": "Outrageous political gestures can trigger dormant geopolitical powder kegs.",
+    "body": "The clash began over religious freedom protections under the Letter of Majesty issued by Emperor Rudolf II. When Ferdinand II halted Protestant chapel construction, furious delegates marched into Prague Castle and held an impromptu trial of the imperial governors.\n\nDefenestration—literally 'throwing out of a window'—had precedent in Prague from 1419. While Catholics claimed angels caught the fallen regents and Protestants claimed they landed in a manure mound, the consequence was catastrophic: thirty years of brutal continent-wide warfare that decimated one-third of the German population and reshaped sovereignty through the Peace of Westphalia in 1648.",
+    "sourceName": "History Today",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Defenestrations_of_Prague",
+    "tags": [
+      "Europe",
+      "Reformation",
+      "Politics"
+    ],
+    "readTimeSeconds": 25,
+    "gradientColors": [
+      "#16222A",
+      "#3A6073"
+    ],
+    "isStashed": false
+  },
+  {
+    "id": "hist-009",
+    "title": "The Bronze Age Collapse (c. 1177 BC)",
+    "category": "History",
+    "summary": "Around 1200 BC, the advanced Mycenaean, Hittite, Babylonian, and New Kingdom Egyptian civilizations experienced sudden, systemic collapse within fifty years. Sophisticated trade, linear writing systems, and imperial capitals vanished into centuries of dark ages.",
+    "takeaway": "Highly interconnected and specialized global supply chains are brittle to compound shocks.",
+    "body": "The Late Bronze Age was a globalized world: Mycenaeans sailed Aegean waters, Hittites traded across Anatolia, and Egyptian pharaohs forged diplomatic treaties in cuneiform. However, bronze required both copper (from Cyprus) and tin (often transported from as far as Afghanistan or Britain).\n\nBetween 1200 and 1150 BC, a 'perfect storm' struck: multi-decade droughts, severe earthquakes, internal peasant rebellions, and the mysterious seafaring marauders known as the 'Sea Peoples'. When key ports were burned, the tin trade stopped, leading to military paralysis and cascading collapse.",
+    "sourceName": "Princeton University Press",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Late_Bronze_Age_collapse",
+    "tags": [
+      "Bronze Age",
+      "Civilization",
+      "Systems"
+    ],
+    "readTimeSeconds": 30,
+    "gradientColors": [
+      "#200122",
+      "#6f0000"
+    ],
+    "isStashed": false
+  },
+  {
+    "id": "hist-010",
+    "title": "The Code of Hammurabi: Law Written in Stone",
+    "category": "History",
+    "summary": "Carved into a 7-foot diorite stele around 1750 BC, the 282 laws of Babylonian King Hammurabi introduced the revolutionary concept of public statutory law: rules that applied across an empire and could not be altered at a local judge's whim.",
+    "takeaway": "Public codification of law is the foundation of institutional trust and the rule of law.",
+    "body": "Before Hammurabi, justice was largely customary, tribal, and administered subjectively by local priests or chieftains. Hammurabi placed his stele in the temple of Marduk for all citizens to see, declaring that strong should not oppress the weak.\n\nWhile famous for 'lex talionis' (an eye for an eye, a tooth for a tooth), the code was surprisingly modern in establishing presumption of innocence, requiring written evidence and contracts for commercial transactions, and defining liability standards for builders, surgeons, and boat navigators.",
+    "sourceName": "The Louvre Museum",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Code_of_Hammurabi",
+    "tags": [
+      "Mesopotamia",
+      "Law",
+      "Governance"
+    ],
+    "readTimeSeconds": 25,
+    "gradientColors": [
+      "#485563",
+      "#29323c"
+    ],
+    "isStashed": false
+  },
+  {
+    "id": "hist-011",
+    "title": "The Great Fire of London (1666)",
+    "category": "History",
+    "summary": "Starting in a baker's shop on Pudding Lane, a blaze consumed 13,200 houses and 87 parish churches across medieval London. While devastating, it eradicated the endemic black plague bacteria and birthed modern fire insurance, municipal building codes, and Sir Christopher Wren's architectural masterpiece, St. Paul's.",
+    "takeaway": "Catastrophe forces radical urban and infrastructural reimagining.",
+    "body": "London in 1666 was a tinderbox: pitch-covered timber homes crowded narrow medieval alleys beneath strong eastern drought winds. Lord Mayor Sir Thomas Bloodworth initially dismissed the blaze, remarking that 'a woman might piss it out'.\n\nWithin 48 hours, the firestorm jumped stone walls and burned for four days. While only six recorded deaths were verified, over 100,000 residents were left homeless. The aftermath produced the Rebuilding of London Act 1666, mandating brick and stone construction, widening roadways, and creating the world's first property fire insurance company, 'The Fire Office'.",
+    "sourceName": "Museum of London",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Great_Fire_of_London",
+    "tags": [
+      "London",
+      "Urbanism",
+      "Disaster"
+    ],
+    "readTimeSeconds": 25,
+    "gradientColors": [
+      "#ED213A",
+      "#93291E"
+    ],
+    "isStashed": false
+  },
+  {
+    "id": "hist-012",
+    "title": "The Voynich Manuscript: An Unbreakable Cipher",
+    "category": "History",
+    "summary": "Carbon-dated to the early 15th century, this 240-page illustrated vellum codex is written in an unknown alphabet and unidentified language that has baffled NSA cryptographers, Alan Turing's colleagues, and modern AI neural networks for decades.",
+    "takeaway": "Not all human mysteries yield to brute computational power.",
+    "body": "Acquired in 1912 by Polish-American book dealer Wilfrid Voynich at a Jesuit college in Italy, the book features bizarre biological drawings, astronomical foldouts, and fantastical botanical diagrams of plants that do not match any known flora on Earth.\n\nStatistical analysis of the text shows it obeys Zipf's law (which governs natural human languages) and features word-entropy characteristics similar to Latin or Semitic languages, ruling out simple random gibberish. Yet despite attempts by codebreakers from WWI, WWII, and modern machine learning models, no sentence has ever been definitively translated.",
+    "sourceName": "Yale Beinecke Rare Book Library",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Voynich_manuscript",
+    "tags": [
+      "Mystery",
+      "Cryptography",
+      "Manuscripts"
+    ],
+    "readTimeSeconds": 25,
+    "gradientColors": [
+      "#134E5E",
+      "#71B280"
+    ],
+    "isStashed": false
+  },
+  {
+    "id": "hist-013",
+    "title": "The Space Race: Apollo 11's 4-Kilobyte Miracle",
+    "category": "History",
+    "summary": "On July 20, 1969, Neil Armstrong and Buzz Aldrin guided the Lunar Module Eagle to the surface of the Moon using the Apollo Guidance Computer—a system with just 4 kilobytes of RAM and 72 kilobytes of ROM, programmed by hand-woven copper rope memory.",
+    "takeaway": "Resilient software engineering and human focus outperform raw computational capacity.",
+    "body": "Developed by MIT's Instrumentation Laboratory led by Margaret Hamilton, the Apollo Guidance Computer (AGC) pioneered real-time asynchronous operating systems. During descent, radar radar data overloaded the computer with 1202 and 1201 alarm interrupts.\n\nBecause Hamilton had engineered priority-based task scheduling, the computer dropped low-priority radar telemetry and preserved critical landing thruster calculations, allowing Armstrong to land manually on the Sea of Tranquility with only 25 seconds of fuel remaining.",
+    "sourceName": "NASA History Division",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Apollo_11",
+    "tags": [
+      "Space",
+      "Engineering",
+      "Software"
+    ],
+    "readTimeSeconds": 25,
+    "gradientColors": [
+      "#000046",
+      "#1CB5E0"
+    ],
+    "isStashed": false
+  },
+  {
+    "id": "sci-001",
+    "title": "The Fermi Paradox & The Great Filter",
+    "category": "Science",
+    "summary": "With billions of stars in our galaxy older than the Sun, and trillions of planets in hospitable orbits, why have we detected zero signs of intelligent alien civilizations? The 'Great Filter' hypothesis suggests an evolutionary barrier exists that is almost impossible for life to cross.",
+    "takeaway": "Either intelligent life is unimaginably rare, or advanced civilizations inevitably self-destruct.",
+    "body": "Physicist Enrico Fermi famously asked his colleagues at Los Alamos over lunch in 1950: 'Where is everybody?' In 1996, economist Robin Hanson formalized the concept of the 'Great Filter'. The filter represents one or more critical hurdles on the path from prebiotic chemistry to interstellar colonizers: abiogenesis, eukaryotic cell evolution, tool use, or surviving technological puberty (nuclear, AI, climate destruction).\n\nIf the filter is behind us (e.g., getting from single-cell to complex multicellular life was a freak accident), humanity has a bright cosmic future. But if we discover complex fossil life on Mars or Europa, it signals that the Great Filter likely lies ahead of us.",
+    "sourceName": "SETI Institute",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Fermi_paradox",
+    "tags": [
+      "Astronomy",
+      "Astrophysics",
+      "Evolution"
+    ],
+    "readTimeSeconds": 30,
+    "gradientColors": [
+      "#0F2027",
+      "#2C5364"
+    ],
+    "isStashed": false
+  },
+  {
+    "id": "sci-002",
+    "title": "Quantum Entanglement & 'Spooky Action'",
+    "category": "Science",
+    "summary": "When two subatomic particles become entangled, measuring the quantum spin of one instantaneously dictates the state of the other, even if they are separated by billions of light-years. Einstein hated this implication, dismissing it as 'spooky action at a distance'.",
+    "takeaway": "The universe is non-local; reality does not possess definite properties until an observation occurs.",
+    "body": "In 1935, Albert Einstein, Boris Podolsky, and Nathan Rosen published the EPR paradox, arguing that quantum mechanics must be incomplete and that 'hidden variables' must pre-determine outcomes. In 1964, Northern Irish physicist John Stewart Bell devised a mathematical theorem (Bell's Inequality) to test whether hidden local variables could explain quantum behavior.\n\nDecades of experimental tests—culminating in the 2022 Nobel Prize in Physics awarded to Alain Aspect, John Clauser, and Anton Zeilinger—proved Bell's inequality is violated. Entangled particles truly share a single quantum state across space, forming the physical backbone of quantum cryptography and quantum computing.",
+    "sourceName": "Nobel Prize in Physics",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Quantum_entanglement",
+    "tags": [
+      "Physics",
+      "Quantum",
+      "Nobel"
+    ],
+    "readTimeSeconds": 25,
+    "gradientColors": [
+      "#4A00E0",
+      "#8E2DE2"
+    ],
+    "isStashed": false
+  },
+  {
+    "id": "sci-003",
+    "title": "Mitochondrial Eve: The Mother of All Living Humans",
+    "category": "Science",
+    "summary": "Mitochondria contain their own distinct loop of DNA passed down solely from mother to child without maternal-paternal recombination. Geneticists tracing this maternal lineage discovered that every living human on Earth descends from a single woman who lived in East Africa ~150,000 years ago.",
+    "takeaway": "All 8 billion people on Earth share an unbroken maternal chain with a single African ancestor.",
+    "body": "Published in 1987 by Rebecca Cann, Mark Stoneking, and Allan Wilson, the Mitochondrial Eve study rocked anthropology. Mitochondria were originally independent bacterial organisms that entered an endosymbiotic relationship with ancient eukaryotic cells 1.5 billion years ago, retaining a small 16,569-base-pair genome.\n\nMitochondrial Eve was not the only living woman of her era, nor the first human; she was simply the female ancestor whose unbroken matrilineal lineage managed to survive through population bottlenecks to the present day, while other contemporary maternal lines eventually ended in all-male generations.",
+    "sourceName": "Nature Genetics",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Mitochondrial_Eve",
+    "tags": [
+      "Genetics",
+      "Evolution",
+      "Biology"
+    ],
+    "readTimeSeconds": 25,
+    "gradientColors": [
+      "#11998E",
+      "#38EF7D"
+    ],
+    "isStashed": false
+  },
+  {
+    "id": "sci-004",
+    "title": "The Casimir Effect: Energy Born from Nothing",
+    "category": "Science",
+    "summary": "Place two uncharged, perfectly flat mirrors a fraction of a micrometer apart in a complete vacuum with zero heat or light. An attractive physical force pushes them together. Why? The vacuum of empty space is not empty—it boils with quantum vacuum fluctuations.",
+    "takeaway": "True nothingness does not exist in the quantum universe.",
+    "body": "Predicted in 1948 by Dutch physicist Hendrik Casimir and experimentally verified by Steve Lamoreaux in 1997, the Casimir effect demonstrates the bizarre reality of zero-point energy.\n\nAccording to Heisenberg's Uncertainty Principle, virtual particles and anti-particles continuously pop into existence and annihilate within Planck time scales. Outside the two mirrors, virtual electromagnetic waves of all wavelengths can manifest; but between the tight gap, only wavelengths that fit into the mirror gap can exist. This pressure differential creates a measurable macroscopic force that squeezes the plates together.",
+    "sourceName": "Physical Review Letters",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Casimir_effect",
+    "tags": [
+      "Quantum",
+      "Physics",
+      "Vacuum"
+    ],
+    "readTimeSeconds": 25,
+    "gradientColors": [
+      "#1F1C2C",
+      "#928DAB"
+    ],
+    "isStashed": false
+  },
+  {
+    "id": "sci-005",
+    "title": "Tardigrade Cryptobiosis: The Art of Suspended Death",
+    "category": "Science",
+    "summary": "Tardigrades (water bears) can survive boiling water at 150°C, absolute zero at -272°C, the vacuum and cosmic radiation of open space, and decades without water by replacing 99% of the water in their cells with protective biological glass.",
+    "takeaway": "Life finds extreme biochemical solutions to survive planetary cataclysms.",
+    "body": "When faced with desiccation, tardigrades enter a state of metabolic suspension known as 'cryptobiosis' or the tun state. Their metabolic activity drops to less than 0.01% of normal, essentially pausing all biological aging.\n\nInstead of cellular membrane collapse, tardigrades synthesize intrinsically disordered proteins (TDPs) that vitrify into an amorphous glass-like matrix around DNA, enzymes, and lipid membranes. When re-exposed to liquid water, the glass safely dissolves, and the organism crawls away in minutes as if no time had elapsed.",
+    "sourceName": "Current Biology",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Tardigrade",
+    "tags": [
+      "Biology",
+      "Extremophiles",
+      "Space"
+    ],
+    "readTimeSeconds": 25,
+    "gradientColors": [
+      "#56ab2f",
+      "#a8e063"
+    ],
+    "isStashed": false
+  },
+  {
+    "id": "sci-006",
+    "title": "Dark Energy & The Accelerating Universe",
+    "category": "Science",
+    "summary": "Until 1998, astrophysicists assumed cosmic gravity would gradually slow down the expansion of the universe after the Big Bang. Instead, observations of distant Type Ia supernovae revealed that expansion has been accelerating for the last 5 billion years.",
+    "takeaway": "95% of our cosmos is composed of dark matter and dark energy whose fundamental nature remains unknown.",
+    "body": "The 2011 Nobel Prize in Physics recognized Saul Perlmutter, Brian Schmidt, and Adam Riess for this shocking revelation. By using Type Ia supernovae as 'standard candles' to measure cosmic distances, both research teams found distant stellar explosions were fainter than anticipated—meaning they were moving away from us faster and faster.\n\nTo account for this repulsive force, scientists revived Einstein's discarded 'cosmological constant', labeling it 'Dark Energy'. Today, measurements show that ordinary matter (stars, planets, atoms, humans) makes up only 4.9% of the universe, while dark matter comprises 26.8% and dark energy makes up 68.3%.",
+    "sourceName": "NASA Astrophysics",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Dark_energy",
+    "tags": [
+      "Cosmology",
+      "Astrophysics",
+      "Universe"
+    ],
+    "readTimeSeconds": 25,
+    "gradientColors": [
+      "#000428",
+      "#004e92"
+    ],
+    "isStashed": false
+  },
+  {
+    "id": "sci-007",
+    "title": "Stellar Nucleosynthesis: We Are Nuclear Stardust",
+    "category": "Science",
+    "summary": "The Big Bang forged only hydrogen, helium, and a sliver of lithium. Every atom of carbon in your DNA, oxygen in your lungs, calcium in your teeth, and iron in your blood was synthesized inside the searing nuclear core of a dying star or supermassive supernova.",
+    "takeaway": "We are not just in the universe; the universe is literally inside us.",
+    "body": "In 1957, Margaret Burbidge, Geoffrey Burbidge, William Fowler, and Fred Hoyle published the seminal 'B2FH paper' detailing how heavier elements are forged through stellar fusion. Light stars like our Sun fuse hydrogen into helium and eventually carbon and oxygen.\n\nHowever, fusing iron is an endothermic reaction that consumes energy rather than releasing it, immediately causing a massive star's core to collapse under gravity in a fraction of a second. The resulting supernova explosion and neutron star collisions (kilonovae) seed interstellar space with gold, platinum, iodine, and uranium.",
+    "sourceName": "Reviews of Modern Physics",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Stellar_nucleosynthesis",
+    "tags": [
+      "Astronomy",
+      "Chemistry",
+      "Origins"
+    ],
+    "readTimeSeconds": 25,
+    "gradientColors": [
+      "#f12711",
+      "#f5af19"
+    ],
+    "isStashed": false
+  },
+  {
+    "id": "sci-008",
+    "title": "The Double-Slit Experiment: Reality Is Watching",
+    "category": "Science",
+    "summary": "Fire single photons or electrons through two narrow slits toward a detector screen, and they build up a wave-interference pattern—meaning each particle travels through both slits simultaneously. But place a detector at the slits to observe which slit it passes through, and the wave pattern collapses into two simple particle lines.",
+    "takeaway": "The act of measurement actively alters the physical state of reality.",
+    "body": "First performed with light by Thomas Young in 1801 to establish wave theory, the experiment was adapted in the 20th century with single electrons, buckyballs (C60 molecules), and atoms. Even when fired one by one with days between shots, the probability distribution produces an interference pattern of bright and dark fringes.\n\nThis demonstration lies at the core of wave-particle duality and the Copenhagen interpretation of quantum mechanics: physical systems exist as probability superpositions until an observation forces wavefunction collapse.",
+    "sourceName": "American Journal of Physics",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Double-slit_experiment",
+    "tags": [
+      "Quantum",
+      "Physics",
+      "Philosophy of Science"
+    ],
+    "readTimeSeconds": 25,
+    "gradientColors": [
+      "#360033",
+      "#0b8793"
+    ],
+    "isStashed": false
+  },
+  {
+    "id": "sci-009",
+    "title": "CRISPR-Cas9: Repurposing Bacterial Immunity",
+    "category": "Science",
+    "summary": "CRISPR was not invented by geneticists; it evolved over a billion years inside single-celled bacteria as an adaptive immune system to slice and disable invading bacteriophage virus DNA with guide-RNA precision.",
+    "takeaway": "Nature's ancient molecular toolkits hold the keys to modern medicine.",
+    "body": "Discovered by researchers including Emmanuelle Charpentier and Jennifer Doudna (who received the 2020 Nobel Prize in Chemistry), CRISPR consists of repetitive DNA sequences and the Cas9 endonuclease enzyme.\n\nBy supplying a synthetic guide RNA (sgRNA) matching any 20-base-pair genetic sequence, scientists can direct Cas9 to make a clean double-stranded cut anywhere in a genome. This enabled treatments for sickle cell disease, targeted cancer therapies, and disease-resistant agricultural crops.",
+    "sourceName": "Science Magazine",
+    "sourceUrl": "https://en.wikipedia.org/wiki/CRISPR",
+    "tags": [
+      "Genetics",
+      "Biotechnology",
+      "Nobel"
+    ],
+    "readTimeSeconds": 25,
+    "gradientColors": [
+      "#134E5E",
+      "#71B280"
+    ],
+    "isStashed": false
+  },
+  {
+    "id": "sci-010",
+    "title": "Chaos Theory & The Butterfly Effect",
+    "category": "Science",
+    "summary": "In deterministic non-linear dynamical systems, tiny differences in initial conditions—like the flap of a butterfly's wings in Brazil—can cascade exponentially into massive, unpredictable divergences weeks later, such as a tornado in Texas.",
+    "takeaway": "Deterministic rules do not guarantee long-term predictability.",
+    "body": "In 1961, MIT meteorologist Edward Lorenz was running computer weather simulations. To save time, he restarted a simulation midway, entering initial values rounded to three decimal places (0.506) instead of six (0.506127). That microscopic 0.02% rounding error completely altered the computer's simulated weather months into the future.\n\nLorenz's discovery gave birth to chaos theory and the famous Lorenz Attractor. It proved that despite weather obeying exact deterministic laws of thermodynamics and fluid dynamics, long-term atmospheric forecasts beyond 10–14 days are mathematically impossible.",
+    "sourceName": "Journal of the Atmospheric Sciences",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Chaos_theory",
+    "tags": [
+      "Mathematics",
+      "Physics",
+      "Complexity"
+    ],
+    "readTimeSeconds": 25,
+    "gradientColors": [
+      "#654ea3",
+      "#eaafc8"
+    ],
+    "isStashed": false
+  },
+  {
+    "id": "sci-011",
+    "title": "Voyager's Golden Record: Humanity's Cosmic Bottle",
+    "category": "Science",
+    "summary": "Launched in 1977 and now over 15 billion miles away in interstellar space, Voyagers 1 and 2 carry a 12-inch gold-plated copper phonograph record encoded with 115 images, sounds of wind and rain, spoken greetings in 55 languages, and 90 minutes of music from Bach to Chuck Berry.",
+    "takeaway": "Our cultural artifact will outlive the Sun, drifting through the Milky Way for billions of years.",
+    "body": "Chaired by Carl Sagan of Cornell University, the committee designed the Golden Record as a cosmic time capsule. The record's aluminum jacket features etched symbolic diagrams explaining how to construct a turntable, play the audio at 16⅔ RPM, and locate our Solar System using 14 pulsar timing beacons.\n\nEven after Voyager's plutonium nuclear batteries deplete by the 2030s, the physical discs will survive interstellar micrometeorite erosion for an estimated 1 to 5 billion years—potentially outlasting humanity, planet Earth, and our Sun.",
+    "sourceName": "NASA Jet Propulsion Laboratory",
+    "sourceUrl": "https://voyager.jpl.nasa.gov/golden-record/",
+    "tags": [
+      "Space",
+      "Cosmology",
+      "Culture"
+    ],
+    "readTimeSeconds": 25,
+    "gradientColors": [
+      "#F7971E",
+      "#FFD200"
+    ],
+    "isStashed": false
+  },
+  {
+    "id": "sci-012",
+    "title": "The James Webb Telescope & Cosmic Dawn",
+    "category": "Science",
+    "summary": "Orbiting the Sun 1 million miles from Earth at the Second Lagrange Point (L2), the James Webb Space Telescope uses a 6.5-meter gold-coated beryllium mirror cooled to -233°C to detect infrared light stretched over 13.5 billion years from the very first stars.",
+    "takeaway": "Looking deep into space is looking backward into deep cosmic time.",
+    "body": "Because cosmological expansion stretches visible and ultraviolet light into infrared wavelengths, Hubble could not peer through the dense cosmic dust clouds of the early universe. JWST's NIRCam and MIRI instruments capture this ancient red-shifted photons.\n\nIn its first years of operation, JWST discovered massive early galaxies (such as JADES-GS-z14-0) shining brightly just 290 million years after the Big Bang, challenging existing astrophysical models of how quickly supermassive black holes and galactic structures assembled.",
+    "sourceName": "NASA / ESA / CSA",
+    "sourceUrl": "https://webb.nasa.gov/",
+    "tags": [
+      "Astronomy",
+      "Astrophysics",
+      "Technology"
+    ],
+    "readTimeSeconds": 25,
+    "gradientColors": [
+      "#1A2980",
+      "#26D0CE"
+    ],
+    "isStashed": false
+  },
+  {
+    "id": "sci-013",
+    "title": "The Gut-Brain Axis: Our Second Nervous System",
+    "category": "Science",
+    "summary": "Your enteric nervous system contains over 500 million neurons lining your gastrointestinal tract, communicating bidirectionally with your brain via the vagus nerve. Over 90% of your body's serotonin is produced not in your brain, but by your gut microbiome.",
+    "takeaway": "Your thoughts, moods, and anxiety are inextricably linked to your microbial passengers.",
+    "body": "For decades, neuroscience viewed the brain as an autonomous control tower. However, modern research into the gut-brain axis revealed that intestinal microbes produce neurotransmitters including GABA, dopamine, and short-chain fatty acids (SCFAs like butyrate) that cross the blood-brain barrier.\n\nFecal microbiota transplants in animal studies have shown that transferring gut bacteria from depressed humans into sterile mice induces depressive-like behaviors, demonstrating that metabolic signaling from gut microbes influences emotional regulation.",
+    "sourceName": "Nature Microbiology",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Gut%E2%80%93brain_axis",
+    "tags": [
+      "Neuroscience",
+      "Microbiome",
+      "Health"
+    ],
+    "readTimeSeconds": 25,
+    "gradientColors": [
+      "#114357",
+      "#F29492"
+    ],
+    "isStashed": false
+  },
+  {
+    "id": "phil-001",
+    "title": "Amor Fati: The Love of Fate",
+    "category": "Philosophy",
+    "summary": "Championed by Friedrich Nietzsche and the ancient Stoics, 'Amor Fati' is the radical practice of not merely enduring life's adversities, failures, and tragedies, but actively embracing and loving them as necessary fuel for growth.",
+    "takeaway": "'My formula for greatness in a human being is amor fati: that one wants nothing to be different, not forward, not backward, not in all eternity.' — Friedrich Nietzsche",
+    "body": "In 'The Gay Science', Nietzsche presented the ultimate thought experiment: Eternal Recurrence. If a demon came to you tonight and whispered that you must live this exact life over and over again for eternity—with every joy, sorrow, and mistake repeated—would you fall to the ground and curse, or rejoice?\n\nAmor Fati transforms regret into agency. Rather than wishing for easier conditions or resenting hardship, the practitioner views every obstacle as an essential chapter in the narrative of self-overcoming.",
+    "sourceName": "Stanford Encyclopedia of Philosophy",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Amor_fati",
+    "tags": [
+      "Nietzsche",
+      "Stoicism",
+      "Mindset"
+    ],
+    "readTimeSeconds": 25,
+    "gradientColors": [
+      "#42275a",
+      "#734b6d"
+    ],
+    "isStashed": false
+  },
+  {
+    "id": "phil-002",
+    "title": "Plato's Allegory of the Cave",
+    "category": "Philosophy",
+    "summary": "Prisoners chained inside a dark cave their entire lives see only the flickering shadows of puppets cast on the wall by a fire behind them, mistaking shadows for reality. When one escapes into the blazing sunlight, the truth is blinding and painful.",
+    "takeaway": "Education is not the filling of a vessel, but the turning of the soul toward the light of truth.",
+    "body": "Presented in Book VII of Plato's 'Republic', the allegory explores the epistemic gap between opinion (doxa) and genuine knowledge (episteme). The shadows represent superficial cultural dogmas, political slogans, and sensory illusions that people accept uncritically.\n\nWhen the freed prisoner returns to the cave out of compassion to enlighten his former companions, his eyes are unaccustomed to the darkness. Stumbling and ridiculed, the prisoners think his journey blinded him, and Plato warns they would kill anyone trying to liberate them—a clear allusion to Socrates' execution.",
+    "sourceName": "Plato's Republic",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Allegory_of_the_cave",
+    "tags": [
+      "Plato",
+      "Epistemology",
+      "Greek"
+    ],
+    "readTimeSeconds": 25,
+    "gradientColors": [
+      "#2b5876",
+      "#4e4376"
+    ],
+    "isStashed": false
+  },
+  {
+    "id": "phil-003",
+    "title": "The Ship of Theseus: The Paradox of Identity",
+    "category": "Philosophy",
+    "summary": "As Theseus's heroic wooden ship aged, sailors replaced every rotted plank, mast, and nail one by one until not a single original piece remained. Is it still the same ship? And if someone gathered all the discarded old planks and assembled a second ship, which one is the real Ship of Theseus?",
+    "takeaway": "Identity is not an immutable substance, but an ongoing conceptual continuity.",
+    "body": "First recorded by the Greek historian Plutarch, this ancient puzzle questions the fundamental nature of identity and material composition. The paradox exposes how human language assigns rigid labels to dynamic, continuously changing entities.\n\nThe same paradox applies directly to human biology: almost every cell in your body dies and is replaced every 7 to 10 years. Are you physically the same person you were a decade ago, or does your identity reside strictly in the informational pattern of your memories and brain architecture?",
+    "sourceName": "Plutarch / Stanford Encyclopedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Ship_of_Theseus",
+    "tags": [
+      "Metaphysics",
+      "Identity",
+      "Paradox"
+    ],
+    "readTimeSeconds": 25,
+    "gradientColors": [
+      "#314755",
+      "#26a0da"
+    ],
+    "isStashed": false
+  },
+  {
+    "id": "phil-004",
+    "title": "The Dichotomy of Control",
+    "category": "Philosophy",
+    "summary": "Epictetus opened his Enchiridion with a foundational axiom: things in life divide strictly into what is within our control (beliefs, intentions, actions) and what is outside our control (reputation, economy, weather, illness, other people's behavior).",
+    "takeaway": "Focus 100% of your emotional energy on what you control; accept everything else with equanimity.",
+    "body": "Born a slave in Rome who later became a celebrated philosopher, Epictetus argued that human anxiety, resentment, and depression arise solely from confusing these two categories. When we hitch our peace of mind to external outcomes (e.g., getting a promotion, being liked), we become emotional hostages to fortune.\n\nStoic masters like Marcus Aurelius practiced this daily in their journals, reminding themselves that external events cannot harm character unless we allow our judgment to be corrupted.",
+    "sourceName": "Epictetus / The Enchiridion",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Epictetus",
+    "tags": [
+      "Stoicism",
+      "Epictetus",
+      "Ethics"
+    ],
+    "readTimeSeconds": 25,
+    "gradientColors": [
+      "#1D2671",
+      "#C33764"
+    ],
+    "isStashed": false
+  },
+  {
+    "id": "phil-005",
+    "title": "The Trolley Problem & Moral Dilemmas",
+    "category": "Philosophy",
+    "summary": "A runaway trolley speeds toward five workers tied to the track. You stand beside a lever: pull it, and the trolley diverts onto a side track where it kills one person. Do you pull the lever? What if you must push a large stranger off a bridge to stop the train?",
+    "takeaway": "Moral clarity shatters when utilitarian calculus collides with innate deontological intuition.",
+    "body": "Conceived by philosopher Philippa Foot in 1967 and expanded by Judith Jarvis Thomson, the Trolley Problem serves as the gold standard thought experiment for contrasting consequentialism (utilitarianism) against deontological ethics (moral duty).\n\nWhile ~90% of people agree to pull the switch (saving five at the cost of one), over 80% refuse to push a person off the footbridge, even though the mathematical outcome (1 dead vs 5 saved) is identical. Neuroimaging shows that direct personal harm activates primitive emotional brain regions (amygdala), whereas pulling a switch engages abstract analytical centers (prefrontal cortex).",
+    "sourceName": "Oxford University Press",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Trolley_problem",
+    "tags": [
+      "Ethics",
+      "Morality",
+      "Psychology"
+    ],
+    "readTimeSeconds": 25,
+    "gradientColors": [
+      "#ba8b02",
+      "#181818"
+    ],
+    "isStashed": false
+  },
+  {
+    "id": "phil-006",
+    "title": "The Myth of Sisyphus: Embracing the Absurd",
+    "category": "Philosophy",
+    "summary": "Condemned by the gods to roll an enormous boulder up a mountain only to watch it roll back down for all eternity, Sisyphus represents the absurdity of human life: our relentless search for inherent cosmic meaning in a cold, silent universe.",
+    "takeaway": "'One must imagine Sisyphus happy.' — Albert Camus",
+    "body": "In his 1942 essay, French-Algerian philosopher Albert Camus posed the only truly serious philosophical question: suicide. If life lacks predefined divine purpose, why continue living?\n\nCamus rejected both physical suicide and intellectual suicide (taking refuge in comforting religious dogmas). Instead, he proposed revolt: looking the Absurd directly in the face and living with passionate defiance. When Sisyphus descends the mountain to retrieve his boulder, his consciousness of his condition transforms punishment into heroic rebellion.",
+    "sourceName": "Albert Camus / Vintage Books",
+    "sourceUrl": "https://en.wikipedia.org/wiki/The_Myth_of_Sisyphus",
+    "tags": [
+      "Absurdism",
+      "Camus",
+      "Existentialism"
+    ],
+    "readTimeSeconds": 25,
+    "gradientColors": [
+      "#20002c",
+      "#cbb4d4"
+    ],
+    "isStashed": false
+  },
+  {
+    "id": "phil-007",
+    "title": "Jean-Paul Sartre & Radical Freedom",
+    "category": "Philosophy",
+    "summary": "'Existence precedes essence.' Humans are not created with a pre-set purpose like a paperknife. We exist first, encounter ourselves in the world, and define our essence through our choices. Because of this, we are 'condemned to be free.'",
+    "takeaway": "You are the sum of your choices; claiming 'I had no choice' is bad faith (mauvaise foi).",
+    "body": "In 'Being and Nothingness' (1943), Sartre argued that humans possess absolute responsibility for their lives. Unlike a clock or a knife designed for a specific function, a human being has no intrinsic nature.\n\nWhen we hide behind societal roles, genetics, upbringing, or peer pressure to explain our failures, Sartre accused us of 'mauvaise foi' (bad faith)—pretending to be an inanimate object bound by determinism rather than a conscious being exercising freedom in every breath.",
+    "sourceName": "Stanford Encyclopedia of Philosophy",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Existentialism",
+    "tags": [
+      "Existentialism",
+      "Sartre",
+      "Freedom"
+    ],
+    "readTimeSeconds": 25,
+    "gradientColors": [
+      "#3E5151",
+      "#DECBA4"
+    ],
+    "isStashed": false
+  },
+  {
+    "id": "phil-008",
+    "title": "Occam's Razor: The Rule of Parsimony",
+    "category": "Philosophy",
+    "summary": "Attributed to 14th-century Franciscan friar William of Ockham: 'Entities should not be multiplied without necessity.' When presented with competing explanations for an event, prefer the one that makes the fewest assumptions.",
+    "takeaway": "The simplest plausible hypothesis that explains the facts is usually closest to the truth.",
+    "body": "Occam's razor is not an absolute law that simpler theories are automatically correct, but an epistemic heuristic that minimizes speculative clutter. If you hear hoofbeats in Central Park, assume horses before zebras or mythical unicorns.\n\nIn science and machine learning, Occam's razor guards against overfitting: complex models that fit training data perfectly by hallucinating elaborate ad-hoc parameters often fail catastrophically when exposed to real-world tests.",
+    "sourceName": "Stanford Encyclopedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Occam%27s_razor",
+    "tags": [
+      "Logic",
+      "Epistemology",
+      "Scientific Method"
+    ],
+    "readTimeSeconds": 25,
+    "gradientColors": [
+      "#3a6073",
+      "#3a7bd5"
+    ],
+    "isStashed": false
+  },
+  {
+    "id": "phil-009",
+    "title": "Pascal's Wager: The Logic of Belief",
+    "category": "Philosophy",
+    "summary": "17th-century mathematician Blaise Pascal argued that belief in God is a rational bet: if God exists and you believe, you gain infinite eternal reward; if He doesn't, you lose almost nothing. Bet against God, and you risk infinite eternal loss.",
+    "takeaway": "When the payoff is infinite, even a minuscule probability makes participation mathematically rational.",
+    "body": "Found in Pascal's posthumous 'Pensées' (1670), the wager pioneered early decision theory, expected value calculations, and probability analysis. Pascal argued that reason alone cannot prove God's existence, forcing every individual to wager their soul.\n\nPhilosophers have since challenged the wager with the 'Many Gods' dilemma: which specific God should one bet on? Believing in the wrong deity might infuriate the true one. Regardless, Pascal's framing established the mathematical foundation of risk management under extreme asymmetry.",
+    "sourceName": "Blaise Pascal / Pensées",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Pascal%27s_wager",
+    "tags": [
+      "Decision Theory",
+      "Theology",
+      "Probability"
+    ],
+    "readTimeSeconds": 25,
+    "gradientColors": [
+      "#2b5876",
+      "#4e4376"
+    ],
+    "isStashed": false
+  },
+  {
+    "id": "phil-010",
+    "title": "Socratic Irony & The Unexamined Life",
+    "category": "Philosophy",
+    "summary": "When the Oracle at Delphi proclaimed Socrates the wisest man in Athens, he was bewildered—he knew nothing. By questioning statesmen and poets, he realized: others thought they knew things they didn't, whereas Socrates was conscious of his own ignorance.",
+    "takeaway": "'The unexamined life is not worth living.' — Socrates",
+    "body": "Socrates' method of elenchus (cooperative argumentative dialogue) relied on disarming feigned ignorance. Rather than lecturing pupils, he asked penetrating questions that revealed internal contradictions in their moral concepts of justice, piety, and virtue.\n\nHis refusal to stop pestering Athenians earned him the nickname 'the gadfly of Athens' and eventually led to his trial and execution on charges of impiety and corrupting the youth, which he accepted with serene stoic dignity in 399 BC.",
+    "sourceName": "Plato's Apology",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Socrates",
+    "tags": [
+      "Socrates",
+      "Epistemology",
+      "Classics"
+    ],
+    "readTimeSeconds": 25,
+    "gradientColors": [
+      "#304352",
+      "#d7d2cc"
+    ],
+    "isStashed": false
+  },
+  {
+    "id": "phil-011",
+    "title": "The Inner Citadel: Marcus Aurelius",
+    "category": "Philosophy",
+    "summary": "As Emperor of Rome, Marcus Aurelius commanded the most powerful military machine on Earth while enduring the Antonine Plague, treasonous revolts, and the deaths of eight children. In his private journal, he constructed an impenetrable mental sanctuary.",
+    "takeaway": "'The soul becomes dyed with the color of its thoughts.' — Marcus Aurelius",
+    "body": "Written in Greek while on military campaign along the frozen Danube frontier, the 'Meditations' was never intended for publication. Marcus addressed himself directly, reminding himself not to act arrogant, not to let praise flatter him, and to remember that all emperors turn to dust.\n\nHe envisioned the rational mind as an inner citadel that cannot be breached by plague, politics, or insult unless one surrenders the gates from within by harboring anger, vanity, or resentment.",
+    "sourceName": "Marcus Aurelius / Meditations",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Marcus_Aurelius",
+    "tags": [
+      "Stoicism",
+      "Leadership",
+      "Rome"
+    ],
+    "readTimeSeconds": 25,
+    "gradientColors": [
+      "#000000",
+      "#434343"
+    ],
+    "isStashed": false
+  },
+  {
+    "id": "phil-012",
+    "title": "Utilitarianism: The Greatest Happiness Principle",
+    "category": "Philosophy",
+    "summary": "Formulated by Jeremy Bentham and refined by John Stuart Mill, utilitarianism holds that actions are morally right if they tend to promote overall well-being, and wrong if they produce the reverse of happiness for all affected beings.",
+    "takeaway": "Morality is measured by consequences: maximizing flourishing and minimizing suffering.",
+    "body": "Bentham's hedonistic calculus treated all pleasures equally ('push-pin is as good as poetry'). Mill introduced qualitative distinctions between higher intellectual pleasures and lower physical pleasures, famously asserting that 'it is better to be a human being dissatisfied than a pig satisfied.'\n\nUtilitarianism inspired monumental progressive legal reforms: the abolition of slavery, women's suffrage, prison reform, and modern animal welfare legislation by extending moral consideration to any creature capable of experiencing suffering.",
+    "sourceName": "John Stuart Mill / Utilitarianism",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Utilitarianism",
+    "tags": [
+      "Ethics",
+      "Bentham",
+      "Mill"
+    ],
+    "readTimeSeconds": 25,
+    "gradientColors": [
+      "#2C3E50",
+      "#4CA1AF"
+    ],
+    "isStashed": false
+  },
+  {
+    "id": "mind-001",
+    "title": "Survivorship Bias & Armor on WWII Planes",
+    "category": "Mental Models",
+    "summary": "In WWII, military engineers analyzed bombers returning from dogfights and planned to add armor where bullet holes clustered most: wings and fuselage. Statistician Abraham Wald stopped them: they were looking at planes that survived; the armor belonged on the engines where unreturned planes were hit.",
+    "takeaway": "Never base conclusions solely on survivors; ask what happened to the silent cemetery of failures.",
+    "body": "Abraham Wald was part of the Statistical Research Group (SRG) at Columbia University. Military officers charted bullet impacts on returning B-17s, assuming the distribution represented the most vulnerable areas of the aircraft.\n\nWald realized that bullet damage was uniformly distributed across all planes. The reason engines had few holes in returning aircraft was that planes shot in the engines crashed in the English Channel and never returned to be counted. Survivorship bias distorts business analysis, startup advice, and investing when people only interview successful founders and ignore thousands of bankruptcies.",
+    "sourceName": "Statistical Research Group",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Survivorship_bias",
+    "tags": [
+      "Statistics",
+      "Logic",
+      "Cognitive Bias"
+    ],
+    "readTimeSeconds": 25,
+    "gradientColors": [
+      "#232526",
+      "#414345"
+    ],
+    "isStashed": false
+  },
+  {
+    "id": "mind-002",
+    "title": "First Principles Thinking: Reasoning from Atoms",
+    "category": "Mental Models",
+    "summary": "Reasoning by analogy copies others with minor iterations. First principles thinking boils a problem down to its most fundamental, immutable truths and reasons upward from scratch to discover non-obvious breakthroughs.",
+    "takeaway": "Break a problem down to physics and chemistry; everything else is convention.",
+    "body": "Practiced by Aristotle, René Descartes, and modern innovators like Elon Musk, first principles thinking cuts through conventional industry dogma.\n\nWhen SpaceX planned to build rockets, aerospace contractors charged $65 million per launch. Musk broke a rocket down to raw material inputs: carbon fiber, aerospace-grade aluminum, titanium, and copper. Raw materials accounted for only ~2% of the finished rocket cost, revealing that supply chain inefficiencies and aerospace bureaucracy—not physics—drove the price.",
+    "sourceName": "Aristotle / Physics",
+    "sourceUrl": "https://en.wikipedia.org/wiki/First_principle",
+    "tags": [
+      "Problem Solving",
+      "Innovation",
+      "Mental Model"
+    ],
+    "readTimeSeconds": 25,
+    "gradientColors": [
+      "#000428",
+      "#004e92"
+    ],
+    "isStashed": false
+  },
+  {
+    "id": "mind-003",
+    "title": "Hanlon's Razor: The Antidote to Paranoia",
+    "category": "Mental Models",
+    "summary": "'Never attribute to malice that which is adequately explained by stupidity or carelessness.' Most frustrating human blunders, delays, and errors stem from exhaustion, distraction, or incompetence, not calculated conspiracy.",
+    "takeaway": "Assume ignorance and fatigue before assuming coordinated evil; it preserves relationships and peace of mind.",
+    "body": "Named after Robert J. Hanlon and echoing earlier formulations by Johann Wolfgang von Goethe and Robert A. Heinlein, this mental model prevents unnecessary interpersonal paranoia.\n\nWhen a colleague doesn't reply to an urgent email or a driver cuts you off in traffic, our evolutionary threat-detection brain defaults to feeling targeted by a malicious enemy. In reality, the colleague forgot to hit send and the driver was distracted by screaming children.",
+    "sourceName": "Robert J. Hanlon",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Hanlon%27s_razor",
+    "tags": [
+      "Psychology",
+      "Interpersonal",
+      "Heuristic"
+    ],
+    "readTimeSeconds": 25,
+    "gradientColors": [
+      "#614385",
+      "#516395"
+    ],
+    "isStashed": false
+  },
+  {
+    "id": "mind-004",
+    "title": "Inversion: Solving Problems Backwards",
+    "category": "Mental Models",
+    "summary": "German mathematician Carl Gustav Jacob Jacobi advised: 'Man muss immer umkehren' (Invert, always invert). Instead of asking 'How do I succeed?', ask 'What guarantees catastrophic failure?' and ruthlessly avoid those things.",
+    "takeaway": "Avoiding obvious stupidity is far easier than trying to be brilliantly clever.",
+    "body": "Championed by legendary investor Charlie Munger, inversion flips problems 180 degrees. If you want to build a successful company, don't ask how to become a unicorn; identify what kills startups (running out of cash, hiring toxic leaders, ignoring customers, co-founder conflict) and build guardrails to avoid them.\n\nStoics practiced inversion through 'Premeditatio Malorum' (the premeditation of evils): visualizing the worst-case scenarios in advance to eliminate fear and build resilience.",
+    "sourceName": "Charlie Munger / Poor Charlie's Almanack",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Charlie_Munger",
+    "tags": [
+      "Strategy",
+      "Decision Making",
+      "Mental Model"
+    ],
+    "readTimeSeconds": 25,
+    "gradientColors": [
+      "#0F2027",
+      "#2C5364"
+    ],
+    "isStashed": false
+  },
+  {
+    "id": "mind-005",
+    "title": "The Dunning-Kruger Effect: The Illusions of Competence",
+    "category": "Mental Models",
+    "summary": "People with low competence in a domain substantially overestimate their expertise because they lack the very knowledge required to recognize their deficiency. Conversely, true experts often underestimate their abilities, assuming what is easy for them is easy for all.",
+    "takeaway": "Real wisdom begins with the humility to admit how little you understand.",
+    "body": "In 1999, Cornell psychologists David Dunning and Justin Kruger tested participants in grammar, logic, and humor. Those scoring in the lowest 12th percentile estimated their skill ranked around the 62nd percentile.\n\nIncompetence robs people of two things: the ability to generate correct answers, and the metacognitive ability to recognize incorrect answers. As people genuinely master a craft, they climb down from 'Mount Stupid' into the 'Valley of Despair' before steadily achieving calibrated confidence.",
+    "sourceName": "Journal of Personality and Social Psychology",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect",
+    "tags": [
+      "Psychology",
+      "Cognitive Bias",
+      "Self-Awareness"
+    ],
+    "readTimeSeconds": 25,
+    "gradientColors": [
+      "#8A2387",
+      "#E94057"
+    ],
+    "isStashed": false
+  },
+  {
+    "id": "mind-006",
+    "title": "Chesterton's Fence: Beware Reforming the Ununderstood",
+    "category": "Mental Models",
+    "summary": "If you encounter a wooden fence erected across a forest road with no obvious purpose, do not tear it down until you discover why it was constructed in the first place. Reforms made without understanding existing customs often trigger disastrous unintended consequences.",
+    "takeaway": "Respect historical adaptations; customs often solve hidden problems you cannot see.",
+    "body": "Derived from G. K. Chesterton's 1929 book 'The Thing', this principle provides vital defense against hubristic innovation. The reformer says: 'I do not see the use of this; let us clear it away.' The wise philosopher replies: 'If you do not see the use of it, I certainly won't let you clear it away. Go away and think.'\n\nIn software engineering, Chesterton's Fence warns against deleting undocumented legacy code that looks messy—it might be an obscure fix for a critical race condition that took weeks of debugging to resolve.",
+    "sourceName": "G. K. Chesterton",
+    "sourceUrl": "https://en.wikipedia.org/wiki/G._K._Chesterton#Chesterton's_fence",
+    "tags": [
+      "Systems",
+      "Strategy",
+      "History"
+    ],
+    "readTimeSeconds": 25,
+    "gradientColors": [
+      "#4b1248",
+      "#f0c27b"
+    ],
+    "isStashed": false
+  },
+  {
+    "id": "mind-007",
+    "title": "Second-Order Thinking: And Then What?",
+    "category": "Mental Models",
+    "summary": "First-order thinking asks: 'What is the immediate, obvious consequence of this action?' Second-order thinking asks: 'And then what? And what happens after that?' Extraordinary decisions often feel counterintuitive in the first order.",
+    "takeaway": "First-order effects are fast and easy; competitive advantages live in second- and third-order effects.",
+    "body": "Economist Howard Marks highlighted second-order thinking in investment strategy. The British government in colonial Delhi wanted to reduce venomous cobras, so they offered a cash bounty for every dead snake brought in (first-order thinking).\n\nEnterprising locals began breeding cobras in captivity to claim bounties. When officials discovered this and canceled the program, breeders released thousands of worthless snakes into Delhi, leaving the city with far more wild cobras than when the program began (the Cobra Effect).",
+    "sourceName": "Howard Marks / Oaktree Capital",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Perverse_incentive#The_original_cobra_effect",
+    "tags": [
+      "Systems Thinking",
+      "Economics",
+      "Incentives"
+    ],
+    "readTimeSeconds": 25,
+    "gradientColors": [
+      "#114357",
+      "#F29492"
+    ],
+    "isStashed": false
+  },
+  {
+    "id": "mind-008",
+    "title": "Parkinson's Law: Work Expands to Fill Time",
+    "category": "Mental Models",
+    "summary": "'Work expands so as to fill the time available for its completion.' Give someone three weeks to complete a two-hour presentation, and the assignment will consume three weeks of anxiety, micromanagement, and revision.",
+    "takeaway": "Constrain time artificially to force radical prioritization and high output.",
+    "body": "First articulated by British civil service historian C. Northcote Parkinson in 1955, the law exposed the bureaucratic inflation of the British Admiralty, which saw an increase in administrators and clerical staff while the fleet of combat naval ships shrank by two-thirds.\n\nSetting tight, non-negotiable deadlines forces teams to strip away perfectionist fluff and focus strictly on core functional deliverables.",
+    "sourceName": "The Economist / C. N. Parkinson",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Parkinson%27s_law",
+    "tags": [
+      "Productivity",
+      "Time Management",
+      "Psychology"
+    ],
+    "readTimeSeconds": 25,
+    "gradientColors": [
+      "#3E5151",
+      "#DECBA4"
+    ],
+    "isStashed": false
+  },
+  {
+    "id": "mind-009",
+    "title": "The Zeigarnik Effect: The Agony of Unfinished Business",
+    "category": "Mental Models",
+    "summary": "Soviet psychologist Bluma Zeigarnik noticed Berlin waiters could remember complex unpaid dinner orders without notes, but forgot them the instant the bill was settled. The human brain keeps interrupted and incomplete tasks active in working memory with nagging intrusive thoughts.",
+    "takeaway": "To beat procrastination, don't focus on finishing; just take the first 5-minute step to open the mental loop.",
+    "body": "In 1927 experiments, Zeigarnik asked subjects to solve puzzles and perform tasks, intentionally interrupting them midway through half the activities. Subjects remembered the interrupted tasks 90% better than completed ones.\n\nHollywood cliffhangers and modern video games exploit the Zeigarnik effect to create engagement. In productivity, writing down clear next physical actions allows the brain to close subconscious mental loops and reduce stress.",
+    "sourceName": "Psychologische Forschung",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Zeigarnik_effect",
+    "tags": [
+      "Psychology",
+      "Memory",
+      "Productivity"
+    ],
+    "readTimeSeconds": 25,
+    "gradientColors": [
+      "#2C3E50",
+      "#FD746C"
+    ],
+    "isStashed": false
+  },
+  {
+    "id": "mind-010",
+    "title": "The Lindy Effect: Aging in Reverse",
+    "category": "Mental Models",
+    "summary": "For non-perishable entities like ideas, books, technologies, and musical compositions, life expectancy increases with every year of survival. A book that has been in print for 500 years (like Marcus Aurelius's Meditations) will likely be read for another 500 years.",
+    "takeaway": "Filter modern noise by reading books that have survived the relentless test of centuries.",
+    "body": "Popularized by Nassim Nicholas Taleb in 'Antifragile', the Lindy Effect originates from a New York deli where comedians met and observed that a comedian's career longevity was proportional to the total time they had already spent in show business.\n\nPerishable biological organisms age and decay toward death. But ideas, philosophies, and algorithms are anti-fragile to time: they have already weathered war, ideological shifts, and economic crises, making them vastly superior bets for enduring relevance.",
+    "sourceName": "Nassim Nicholas Taleb / Antifragile",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Lindy_effect",
+    "tags": [
+      "Information",
+      "Epistemology",
+      "Longevity"
+    ],
+    "readTimeSeconds": 25,
+    "gradientColors": [
+      "#16222A",
+      "#3A6073"
+    ],
+    "isStashed": false
+  },
+  {
+    "id": "mind-011",
+    "title": "Confirmation Bias & Echo Chambers",
+    "category": "Mental Models",
+    "summary": "The human brain has a powerful, subconscious tendency to search for, interpret, favor, and recall information that confirms preexisting beliefs while aggressively ignoring, dismissing, or rationalizing away contradictory evidence.",
+    "takeaway": "Active intelligence is not about defending your opinions; it's about actively trying to disprove yourself.",
+    "body": "First coined by psychologist Peter Wason in 1960 through the '2-4-6 task', confirmation bias is an evolutionary efficiency shortcut: testing every belief from scratch requires immense caloric brain energy. However, in an era of algorithmic social media feeds optimized for engagement, confirmation bias locks individuals into hyper-polarized echo chambers.\n\nCharles Darwin kept a special notebook specifically to write down facts and observations that contradicted his theories within thirty minutes of hearing them, knowing his mind would naturally forget inconvenient counter-evidence.",
+    "sourceName": "Quarterly Journal of Experimental Psychology",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Confirmation_bias",
+    "tags": [
+      "Psychology",
+      "Cognitive Bias",
+      "Darwin"
+    ],
+    "readTimeSeconds": 25,
+    "gradientColors": [
+      "#000046",
+      "#1CB5E0"
+    ],
+    "isStashed": false
+  },
+  {
+    "id": "mind-012",
+    "title": "The Pareto Principle: The 80/20 Power Law",
+    "category": "Mental Models",
+    "summary": "In 1896, Italian economist Vilfredo Pareto noticed 80% of the land in Italy was owned by 20% of the population, and 80% of the peas in his garden were produced by 20% of the peapods. In almost any complex system, ~80% of consequences come from ~20% of causes.",
+    "takeaway": "Ruthlessly identify and double down on the vital few 20% inputs that generate 80% of your results.",
+    "body": "Management consultant Joseph M. Juran generalized Pareto's work into the 'vital few and trivial many'. The power law appears everywhere: 20% of software bugs cause 80% of system crashes; 20% of clients generate 80% of company revenue; 20% of vocabulary words account for 80% of everyday spoken conversations.\n\nThe takeaway is not mathematical precision (it can be 90/10 or 70/30), but asymmetric distribution: effort and impact are rarely distributed equally in nature or business.",
+    "sourceName": "Vilfredo Pareto / J. M. Juran",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Pareto_principle",
+    "tags": [
+      "Economics",
+      "Productivity",
+      "Power Laws"
+    ],
+    "readTimeSeconds": 25,
+    "gradientColors": [
+      "#360033",
+      "#0b8793"
+    ],
+    "isStashed": false
+  }
+]
