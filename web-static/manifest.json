@@ -1,0 +1,25 @@
+{
+  "name": "Smart Stash",
+  "short_name": "Smart Stash",
+  "description": "Bite-sized microlearning cards across History, Science, Philosophy & Mental Models",
+  "start_url": "/curio/",
+  "scope": "/curio/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0B0D13",
+  "theme_color": "#0B0D13",
+  "icons": [
+    {
+      "src": "/curio/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/curio/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
