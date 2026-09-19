@@ -26,6 +26,7 @@
     "android": "expo start --android",
     "ios": "expo start --ios",
     "web": "expo start --web",
+    "build:web": "EXPO_NO_TELEMETRY=1 expo export -p web && node scripts/patch-base-path.js",
     "test": "tsx --test tests/*.test.ts"
   },
   "private": true
