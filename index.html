@@ -23,7 +23,14 @@
         flex: 1;
       }
     </style>
-  <link rel="icon" href="/curio/favicon.ico"/></head>
+  <link rel="icon" href="/curio/favicon.ico"/>  <link rel="manifest" href="/curio/manifest.json" />
+  <meta name="theme-color" content="#0B0D13" />
+  <meta name="mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+  <meta name="apple-mobile-web-app-title" content="Smart Stash" />
+  <link rel="apple-touch-icon" href="/curio/icons/icon-192.png" />
+</head>
 
   <body>
     <!-- Use static rendering with Expo Router to support running without JavaScript. -->
@@ -33,5 +40,14 @@
     <!-- The root element for your Expo app. -->
     <div id="root"></div>
   <script src="/curio/_expo/static/js/web/index-6f5f58f8023ac81c079a7a40c4ec7676.js" defer></script>
+  <script>
+    if ('serviceWorker' in navigator) {
+      window.addEventListener('load', function() {
+        navigator.serviceWorker.register('/curio/sw.js')
+          .then(function(reg) { console.log('SW registered:', reg.scope); })
+          .catch(function(err) { console.warn('SW registration failed:', err); });
+      });
+    }
+  </script>
 </body>
 </html>
